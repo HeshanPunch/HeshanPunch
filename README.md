@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HeshanPunch
-- 👀 I’m interested in Software Development and Business Management
+- 👀 I’m interested in Software Development, enterprenuership, and leadership
 - 🌱 I’m currently learning Software Development. I am very new to coding. Learning Java at the moment.
 - 💞️ I’m looking to collaborate on projects for school/education
 - 📫 How to reach me: linkedin.com/in/heshan-punchihewa/
