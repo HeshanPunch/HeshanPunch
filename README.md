@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HeshanPunch
 - 👀 I’m interested in Software Development, enterprenuership, and leadership
 - 🌱 I’m currently learning Software Development. I've been learning for about 6 months now. Learning Java, HTML, CSS, SQL, JS
-- 🤝 I’m looking to collaborate on projects for school and show some of what I am working on- hopefully laught at some of my code in a few years :) 
+- 🤝 I’m looking to collaborate on projects for school and any opportunities for growth
 - 📫 How to reach me: linkedin.com/in/heshan-punchihewa/
 - 😎 I like basketball, camping, hiking, dogs, biriyani & sashimi
 
