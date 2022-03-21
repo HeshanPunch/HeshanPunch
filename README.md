@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development, enterprenuership, and leadership
 - 🌱 I’m currently learning Software Development. I've been learning for about 6 months now. Learning Java, HTML, CSS, SQL, JS
 - 🤝 I’m looking to collaborate on projects for school and any opportunities for growth
-- 📫 How to reach me: linkedin.com/in/heshan-punchihewa/
+- 📫 How to reach me: linkedin.com/in/heshan-punchihewa/ or Discord: HeezyPeezy#1911
 - 😎 I like basketball, camping, hiking, dogs, biriyani & sashimi
 
 <!---
