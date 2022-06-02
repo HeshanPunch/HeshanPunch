@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Heshan</h1>
 <h3 align="center">A curious software dev student from Calgary, Canada</h3>
 
-- 🌱 I’m currently learning **Java, HTML+CSS, JS, SQL, UI/UX**
+- 🌱 I’m currently a student at <a href="https://www.sait.ca/sait-schools/school-for-advanced-digital-technology/" target="blank"> SAIT - School for Advance Digital Technology </a> 
 
-- 📫 How to reach me **https://www.linkedin.com/in/heshan-punchihewa/**
+- 🎯 Curently working on: <a href="https://www.udemy.com/course/the-web-developer-bootcamp/" target="blank"> **The Web Developer Bootcamp 2022 - Udemy Course by Colt Steele** </a> via AMA's DIT program
+
+- 😎 Completed courses/projects: **Bachelor of Commerce, Java, HTML+CSS, JS, SQL, UI/UX Design**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
