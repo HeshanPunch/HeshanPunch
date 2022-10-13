@@ -3,7 +3,7 @@
 
 - I’m Software Development student at <a href="https://www.sait.ca/sait-schools/school-for-advanced-digital-technology/" target="blank"> SAIT - School for Advance Digital Technology </a> 
 
-- Curently a Developer Intern at <a href="https://github.com/amaabca" target="blank"> AMA </a> 
+- Curently a Developer Intern at <a href="https://ama.ab.ca/about/careers/developers" target="blank"> AMA </a> 
 
 
 <h3 align="left">Connect with me:</h3>
